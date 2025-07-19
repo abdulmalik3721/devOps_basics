@@ -1,0 +1,8 @@
+devOps 🚀 DevOps Basics: A Must-Know for Modern Developers! 🛠️
+
+As the demand for faster, more reliable software grows, DevOps has become a critical part of the software development lifecycle.
+
+Here are the basics of DevOps that every aspiring developer should know:
+
+🔹 DevOps = Development + Operations
+It's a culture and set of practices that bridge the gap between software development and IT operations.
